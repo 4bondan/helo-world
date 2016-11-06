@@ -1,2 +1,3 @@
 # helo-world
-Please ignore
+
+This is testing. I just lernd how to use it. dont jugde hehe
